@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "project-ubd",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
